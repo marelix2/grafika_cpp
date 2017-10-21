@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508611858 source:d:\cpp\allegro_zad\main.cpp
+	<iostream>
+	<allegro.h>
+
