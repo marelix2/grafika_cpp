@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508721094 source:d:\cpp\allegro_lab3\main.cpp
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<iostream>
+
