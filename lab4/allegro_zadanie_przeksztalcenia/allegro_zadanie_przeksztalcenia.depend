@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509865697 source:d:\cpp\allegro_zadanie_przeksztalcenia\main.cpp
+	<iostream>
+	<allegro.h>
+	<math.h>
+	<time.h>
+
