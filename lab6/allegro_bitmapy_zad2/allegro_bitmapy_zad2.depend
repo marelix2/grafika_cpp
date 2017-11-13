@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510549436 source:d:\cpp\allegro_bitmapy_zad2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
